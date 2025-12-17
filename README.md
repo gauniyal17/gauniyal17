@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rahul
 
-![Banner](ChatGPT Image Dec 17, 2025, 05_02_15 PM.png)
+![Banner](banner.png)
 
 🚀 **Data Analyst | Aspiring Data Scientist | GenAI & ML Enthusiast**
 📍 India
