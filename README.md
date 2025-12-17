@@ -9,52 +9,44 @@ I am currently working as a **Data Analyst at Hive AI**, where I collaborate clo
 
 ---
 
-<h2>🧠 Skills & Expertise</h2>
+🧠 Skills & Expertise
+📊 Data Analysis (Current Role)
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>📊 Data Analysis (Current Role)</h3>
-      <ul>
-        <li>KPI definition & tracking</li>
-        <li>Funnel & cohort analysis</li>
-        <li>A/B & multivariate testing</li>
-        <li>SQL pipelines & Power BI dashboards</li>
-      </ul>
-    </td>
+KPI definition & tracking
 
-    <td valign="top" width="50%">
-      <h3>🤖 Machine Learning</h3>
-      <ul>
-        <li>Regression (Linear, Logistic)</li>
-        <li>Random Forest, Gradient Boosting</li>
-        <li>Feature engineering & model evaluation</li>
-      </ul>
-    </td>
-  </tr>
+Funnel & cohort analysis
 
-  <tr>
-    <td valign="top">
-      <h3>🧠 GenAI & NLP</h3>
-      <ul>
-        <li>RAG (Retrieval Augmented Generation)</li>
-        <li>LangChain, Vector Embeddings</li>
-        <li>LLaMA-3 (Groq)</li>
-        <li>LSTM-based NLP models</li>
-      </ul>
-    </td>
+A/B & multivariate testing
 
-    <td valign="top">
-      <h3>🛠 Tools & Tech</h3>
-      <ul>
-        <li>Python, SQL</li>
-        <li>Power BI, Pandas, NumPy</li>
-        <li>FastAPI, Streamlit</li>
-        <li>Git & GitHub</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+SQL pipelines & Power BI dashboards
+
+🤖 Machine Learning
+
+Regression (Linear, Logistic)
+
+Tree-based models (Random Forest, Gradient Boosting)
+
+Feature engineering & model evaluation
+
+🧠 GenAI & NLP
+
+RAG (Retrieval Augmented Generation)
+
+LangChain, Vector Embeddings
+
+LLaMA-3 (Groq)
+
+LSTM-based NLP models
+
+🛠 Tools & Tech
+
+Python, SQL
+
+Power BI, Pandas, NumPy
+
+FastAPI, Streamlit
+
+Git & GitHub
 
 ## 📫 Let’s Connect
 
