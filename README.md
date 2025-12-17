@@ -9,34 +9,11 @@ I am currently working as a **Data Analyst at Hive AI**, where I collaborate clo
 
 ---
 
-## 🧠 Skills & Expertise
-
-### 📊 Data Analysis (Current Role)
-
-* KPI definition & tracking
-* Funnel & cohort analysis
-* A/B & multivariate testing
-* SQL pipelines & Power BI dashboards
-
-### 🤖 Machine Learning
-
-* Regression (Linear, Logistic)
-* Tree-based models (Random Forest, Gradient Boosting)
-* Feature engineering & model evaluation
-
-### 🧠 GenAI & NLP
-
-* RAG (Retrieval Augmented Generation)
-* LangChain, Vector Embeddings
-* LLaMA-3 (Groq)
-* LSTM-based NLP models
-
-### 🛠 Tools & Tech
-
-* Python, SQL
-* Power BI, Pandas, NumPy
-* FastAPI, Streamlit
-* Git & GitHub
+🧠 Skills & Expertise
+📊 Data Analysis (Current Role)	🤖 Machine Learning
+• KPI definition & tracking • Funnel & cohort analysis • A/B & multivariate testing • SQL pipelines & Power BI dashboards	• Regression (Linear, Logistic) • Tree-based models (Random Forest, Gradient Boosting) • Feature engineering & model evaluation
+🧠 GenAI & NLP	🛠 Tools & Tech
+• RAG (Retrieval Augmented Generation) • LangChain, Vector Embeddings • LLaMA-3 (Groq) • LSTM-based NLP models	• Python, SQL • Power BI, Pandas, NumPy • FastAPI, Streamlit • Git & GitHub
 
 ## 📫 Let’s Connect
 
