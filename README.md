@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rahul
 
-![Banner](banner.png)
+![Banner](banner2.png)
 
 🚀 **Data Analyst | Aspiring Data Scientist | GenAI & ML Enthusiast**
 📍 India
